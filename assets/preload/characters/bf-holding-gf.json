@@ -103,9 +103,20 @@
 			"loop": false,
 			"offsets": [
 				0,
-				90
+				96
 			],
 			"anim": "bfCatch",
+			"fps": 24,
+			"name": "BF catches GF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				91
+			],
+			"anim": "hey",
 			"fps": 24,
 			"name": "BF catches GF",
 			"indices": []
@@ -117,7 +128,7 @@
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bfgf",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
